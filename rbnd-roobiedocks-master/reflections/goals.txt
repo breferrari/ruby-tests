@@ -1,0 +1,2 @@
+I'd like to be able to code in Ruby to apply this newly acquired knowledge using Ruby on Rails.
+I already know how to program using other languages (mainly C, Java and Javascript) and Ruby proves to be a good language to learn new things.

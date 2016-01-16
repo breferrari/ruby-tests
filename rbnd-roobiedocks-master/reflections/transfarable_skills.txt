@@ -1,0 +1,26 @@
+I will start apologizing if my english is not well written as it's not my native language.
+I'm a brazilian CS student and I have some background in mobile development and requirements/tests analysis.
+
+The main languages used until now in my grad is C and Java, but I also know Javascript, some Ojective-C/Swift, QT/QML, C++ and C#.
+
+I used to work at a lab in my grad school that deals with Software Engineering (Laboratório de Engenharia de Software, LES@PUC-Rio).
+There I worked creating documentation for some systems developed by LES and TecGraf (another lab @ PUC-Rio) to Petrobras.
+I also did a lot of tests on these systems, mainly manual testing, but also some unit testing using Java.
+
+I also worked at BlackBerry in a TechCenter created by them inside LES in Rio de Janeiro. We were a small team of selected students and had no previous
+knowledge in mobile development. We started from scratch with a little support given by them.
+At the start we used PhoneGap to develop an educational game, I also ported some Android games developed in Adobe Air to BlackBerry10.
+We also developed a native application using Cascades, which consists of 3 layers: C++, Javascript and QT. It was actually very pleasing to work
+on the BB10 platform because QT is easy to learn and I already knew JavaScript.
+
+At the end of the contract with BlackBerry, me and the rest of the team continued to work at the lab with mobile development using another name:
+Mobile Dev Group. We've gotten a contract with a small startup creating an app to catch rides. It was going to be developed by another company
+using native iOS, but they also wanted Android and possibly BlackBerry.
+Their code was a mess and was not documented, so as a small team we decided to reboot it all as web app using Ionic. At this time I was also
+managing the group, so I was not only coding, but had to deal with coordination of the team, the tasks and etc.
+
+As of now I am going to start working at another small company doing their back-end and I need to know ruby on rails to develop it.
+
+By curiosity I also had contact with NodeJS, AngularJS (MVC), ASP.net and also got to play with Arduino using Java via Processing.
+
+I think the transferable skills I have that will assist me is: previous knowledge in programming and the desire to learn new coding skills
